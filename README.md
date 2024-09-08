@@ -1,7 +1,6 @@
 # Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-<<<<<<< HEAD
-## 💫 About Me:
+# 💫 About Me:
 Я начинающий программист, в настоящее время учусь в *КИПУ имени Февзи Якубова*<br>Проявляю большой интерес к Python, Kotlin и MySQL<br>Рад учиться и расти в этих областях, а также участвовать в интересных проектах
 
 
@@ -11,12 +10,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=ohneRE-L&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ohneRE-L&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ohneRE-L&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=ohneRE-L&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-=======
-# About Me
-Я начинающий программист, в настоящее время учусь в *КИПУ имени Февзи Якубова*. Я проявляю большой интерес к Python, Kotlin и MySQL. Я рад учиться и расти в этих областях, а также участвовать в интересных проектах.
->>>>>>> d059463c5d9db428c2c50bfa49095cee9fab1091
