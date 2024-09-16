@@ -1,6 +1,6 @@
 # Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-# <img src="https://media.giphy.com/media/xUOrvZ4p5o3QlIumZO/giphy.gif?cid=ecf05e47dn4f6nlbgaw56ed9afm5px5es78wp39m082d85m6&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"px About Me:
+# <img src="https://giphy.com/embed/xUOrvZ4p5o3QlIumZO" width="30px" /> About Me:
 Я начинающий программист, в настоящее время учусь в *КИПУ имени Февзи Якубова*<br>Проявляю большой интерес к Python, Kotlin и MySQL<br>Рад учиться и расти в этих областях, а также участвовать в интересных проектах
 
 
