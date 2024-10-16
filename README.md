@@ -1,5 +1,5 @@
-![](https://github.com/ohneRE-L/ohneRE-L/blob/main/you-don't-have-the-right.jpg)
 <div align="center">
+![](https://github.com/ohneRE-L/ohneRE-L/blob/main/you-don't-have-the-right.jpg)
 
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
