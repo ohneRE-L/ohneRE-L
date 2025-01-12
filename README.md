@@ -2,7 +2,7 @@
 
 # Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-![](https://github.com/ohneRE-L/ohneRE-L/blob/main/you-don't-have-the-right.jpg)
+![](https://github.com/ohneRE-L/ohneRE-L/blob/main/N8tprjQabNs.jpg)
 
 # 💀 About Me:
 Я начинающий программист, в настоящее время учусь в *КИПУ имени Февзи Якубова*<br>Проявляю большой интерес к Kotlin и Java<br>Стремлюсь к созданию качественного и поддерживаемого кода
