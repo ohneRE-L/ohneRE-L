@@ -4,15 +4,6 @@
 
 ![](https://github.com/ohneRE-L/ohneRE-L/blob/main/N8tprjQabNs.jpg)
 
-# 💀 About Me:
-Я начинающий программист, в настоящее время учусь в *КИПУ имени Февзи Якубова*<br>Проявляю большой интерес к Kotlin и Java<br>Стремлюсь к созданию качественного и поддерживаемого кода
-
-## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ohneRE-L&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ohneRE-L&theme=tokyonight&hide_border=false)<br/>
