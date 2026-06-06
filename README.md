@@ -1,5 +1,5 @@
-<p>
+<p >
   <a href="https://ohnere-l.github.io">
-    <img src="Без названия.jpg" alt="Portfolio" width="734">
+    <img src="profile.jpg" alt="Banner" width="727">
   </a>
 </p>
